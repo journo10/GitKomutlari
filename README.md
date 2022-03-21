@@ -24,7 +24,7 @@
 #### git add . => Dosyaları dizine ekler ve commitlemeye hazır hale getirir. Mevcut dizindeki tüm dosyaları dizine ekler.
 #### git commit -m "Mesaj" => Git'e eklediğimiz dosyaları kalıcı olarak git veri tabanına işler.
 #### git log => İşlem yapılan commitleri gösterir.
-#### gitignore => Bazı uzantı veya dizindeki dosyaların git'e gönderilmesini engellemek oluşturulur, uzantı dosyasını içine yazarak uygulanır.
+#### gitignore => Bazı uzantı veya dizindeki dosyaların git'e gönderilmesini engellemek amacıyla oluşturulur, uzantı dosyasını içine yazarak uygulanır.
 #### git branch => Yeni bir branch açmak için kullanılır.
 #### git merge => Branchleri ana branch ile birleştirmek için kullanılır.
 #### git switch => İstediğimiz branch geçiş yapmak için kullanılır.
