@@ -44,4 +44,4 @@
 #### git reset hard => Tüm dosyalarda yaptığımız değişiklikleri geri alır.
 #### git clone => Mevcut bir Remote Repository'de bulunan dosyaların bilgisayarımızda bir kopyasının oluşturulmasını sağlar.
 #### git push => Projemizde aldığımız commit'leri, remote repository'e gönderir.
-
+#### git pull => Uzak sunucudaki değişiklikleri çalışma dizininize getirir ve birleştirir.
