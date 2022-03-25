@@ -15,7 +15,8 @@
 
 ## Git Komutları
 
-*NOT => 1-) untracked (izlenmeyen): GIT tarafından henüz takip edilmeyen, yani yeni oluşturulmuş dosyaları ifade eder.
+#### NOT => 
+1-) untracked (izlenmeyen): GIT tarafından henüz takip edilmeyen, yani yeni oluşturulmuş dosyaları ifade eder.
 2-) unstaged (hazırlanmamış): Güncellenmiş ancak commit’lenmek için hazırlanmamış dosyaları ifade eder.
 3-)staged (hazırlanmış): Commit’lenmeye hazır olan dosyaları ifade eder.
 4-)deleted (silinmiş): Projeden silinmiş ama GIT üzerinden kaldırılmamış dosyaları ifade eder.
